@@ -9,7 +9,11 @@
   },
   "keywords": [],
   "author": "Eduardo Arredondo",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lalo-the-coder/docker-unit-converter.git"
+  },
   "packageManager": "pnpm@10.25.0",
   "devDependencies": {
     "prettier": "^3.7.4"
